@@ -1,0 +1,130 @@
+*{ margin: 0%;
+    padding: 0%;
+}
+
+.main{ height: 10px;
+       width: 1200px;
+    background-color: aqua;}
+
+.header{background-color: rgba(0, 128, 0, 0.315); 
+    height: 150px;
+    width: 1200px;
+    overflow: hidden;
+    text-align: center;
+    font-size: larger;
+   }
+
+.company{ background-color: rgb(108, 165, 42);
+    height: 150px;
+width: 400px; float: left;
+color: rgb(134, 185, 187);
+font-size: x-large;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+text-decoration: underline;
+background-image: url(/image/company.png);
+
+
+}
+
+
+.social{
+    
+    height: 100px;
+    width: 800px;
+    float: left;
+    color: rgb(58, 50, 160);
+       
+    }
+
+.email{
+       background-color: aliceblue;}  
+
+.contact{ 
+      background-color: aliceblue;}
+
+.manu{ height: 50px;
+       width: 1200px; 
+       background-color: bisque;
+       float:right;}
+       
+
+.gallery{ height: 300px;
+    width: 1350px;
+    background-color: aquamarine; 
+   margin-top: 0% ;
+background-image: url(/image/gallery.jfif);
+background-size: cover;
+background-size: 10cm;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:x-large;
+color: wheat;
+font-style: italic;
+text-decoration: underline;
+
+}
+
+.image{ height: 300px;
+    width: 1350px; 
+    background-color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: url(/image/images.jfif);}
+
+.bootcamp{ background-color:rgb(0, 139, 7);
+    height: 300px; width: 300px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image:url(/image/bootstap.jfif);
+    font-size:x-large;
+    color: rgba(13, 31, 27, 0.705);
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.cloud{ background-color:yellow;
+    height: 300px;  width: 300px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(/image/cloud.jfif);
+    font-size:x-large;
+    color: rgba(182, 155, 22, 0.705);
+    font-style: italic;
+    text-decoration: underline;
+    }
+
+.machin{ background-color: cyan;
+    height: 300px; width: 300px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-image: url(/image/machinlearning);
+     font-size:x-large;
+     color: rgba(28, 224, 133, 0.938);
+     font-style: italic;
+     text-decoration: underline;
+}
+
+.system{ background-color:crimson;
+    height: 300px; width: 300px;
+    float: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(/image/system.jfif);
+    font-size:x-large;
+    color: rgba(13, 31, 27, 0.705);
+    font-style: italic;
+    text-decoration: underline;
+    
+}    
+
+.footer{ height: 100px;
+    width: 1350px; 
+    background-color: brown; 
+    background-image: url(/image/footer-design-multi-column.png);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 0fr;
+    font-size:x-large;
+    color: rgba(13, 31, 27, 0.705);
+    font-style: italic;
+    text-decoration: underline;
+}
